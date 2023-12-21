@@ -1,4 +1,4 @@
-# UTS-Pemograman-231031094
+# Ujian Tengah Semester (UTS) Pemograman
 
 <div> Nama : Redo Triansyah </div>
 <div> NIM  : 231031094 </div>
